@@ -6,3 +6,7 @@ const function firstCommmit () {
   const 'change 6'
   return 'first commit'
 }
+
+const function newCommit () {
+  return 'new commit'
+}
