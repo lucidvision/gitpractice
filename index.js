@@ -5,6 +5,7 @@ const function firstCommmit () {
   const 'change 5'
   const 'change 6'
   const 'change 7'
+  const 'change 9'
   return 'first commit'
 }
 
